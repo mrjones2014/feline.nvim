@@ -21,6 +21,16 @@ local M = {
             inactive = {},
         },
     },
+    statuscolumn = {
+        icons = {
+            active = {},
+            inactive = {},
+        },
+        noicons = {
+            active = {},
+            inactive = {},
+        },
+    },
 }
 
 M.statusline.icons.active[1] = {
